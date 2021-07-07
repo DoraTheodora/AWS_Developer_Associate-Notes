@@ -1,9 +1,7 @@
 # AWS_Developer_Associate-Notes
 
-### This notes are following the <a href="https://t.co/D0A0OTJHF3?amp=1">AWS Developer Associate Course</a>
-<font size=2>by Adrian Cantrill</font>
-### Notes
-<font size=2>by Theodora Litean-Tataru</font>
+### This notes are following the <a href="https://t.co/D0A0OTJHF3?amp=1">AWS Developer Associate Course</a> <font size=2>by Adrian Cantrill</font>
+### Notes <font size=2>by Theodora Litean-Tataru</font>
 
 
 ### Description
